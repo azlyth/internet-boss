@@ -1,0 +1,27 @@
+{
+  "name": "internet-boss",
+  "description": "its a big boss battle",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "peter",
+      "email": "peter@outlands.nyc"
+    }
+  ],
+  "dependencies": {
+    "connect": "3.0.1",
+    "express": "4.13.1",
+    "minimist": "1.1.0",
+    "serve-static": "1.8.0",
+    "socketcluster": "2.3.x",
+    "socketcluster-client": "2.3.x"
+  },
+  "keywords": [
+    "websocket",
+    "server",
+    "realtime",
+    "cluster",
+    "scalable"
+  ],
+  "readmeFilename": "README.md"
+}
