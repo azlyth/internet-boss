@@ -122,7 +122,7 @@
 
   function addSprites() {
     ship = new PIXI.Sprite.fromImage('assets/sprites/ship/on.png');
-    ship.scale.x = ship.scale.y = 0.7;
+    ship.scale.x = ship.scale.y = 0.6;
     ship.position.x = player.position.x - (ship.width  / 2);
     ship.position.y = player.position.y - (ship.height / 2);
     ship.anchor.x = 0.5;
